@@ -1,0 +1,5 @@
+
+1. Download CentOS-7-x86_64-Minimal-1511.iso to /root/
+2. Download rpm to rpms/
+3. run mkiso.sh
+
